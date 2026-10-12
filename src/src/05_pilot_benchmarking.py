@@ -1,3 +1,4 @@
+#src/05_pilot_benchmarking.py & src/06_generate_figures.py
 import os
 import numpy as np
 import pandas as pd
